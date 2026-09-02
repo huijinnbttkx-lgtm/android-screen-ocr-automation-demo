@@ -1,4 +1,4 @@
-# ⚠️ Important Disclaimer
+#⚠️ Important Disclaimer
 This project is intended solely for learning and research in Android screen automation and OCR programming technologies.
 The code only invokes system screenshot and simulated input APIs. It does not perform reverse engineering, hooking, or modify any third‑party applications.
 
